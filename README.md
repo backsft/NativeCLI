@@ -1,3 +1,9 @@
+
+refferance :
+
+https://www.youtube.com/watch?v=JKccS9k56_I&t=281s
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
